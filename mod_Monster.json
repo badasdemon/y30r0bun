@@ -2,19 +2,19 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"ADMOB",
+      "select_backup_ads":"IRON",
       "main_ads_banner": "ca-app-pub-1437241986629219/7505669208",
       "main_ads_intertitial":"ca-app-pub-1437241986629219/2253342525",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
       "interval_intertitial": 2,
-      "initialize_sdk":"107355779",
-      "initialize_sdk_backup_ads":"",
+      "initialize_sdk":"17c075dcd",
+      "initialize_sdk_backup_ads":"17c075dcd",
 	   "high_paying_keyword_1": "Insurance",
       "high_paying_keyword_2": "Loans",
       "high_paying_keyword_3": "Mortgage",
       "high_paying_keyword_4": "Attorney",
-	   "high_paying_keyword_5": "Credit",
+	"high_paying_keyword_5": "Credit",
       "status_app": "0",
       "link_redirect": "https://"
     }
