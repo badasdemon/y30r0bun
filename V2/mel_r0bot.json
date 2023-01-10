@@ -1,0 +1,416 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-1437241986629219/4754117433",
+      "main_ads_intertitial":"ca-app-pub-1437241986629219/3441035761",
+      "main_ads_natives":"ca-app-pub-1437241986629219/5737108188",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"ca-app-pub-1437241986629219/2912468441",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 3,
+      "initialize_sdk":"17cc629d5",
+      "initialize_sdk_backup_ads":"17cc629d5",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+{
+      "id":1,
+      "name":"Android Robot",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Robot/Android%20Robot/Android%20Robot.jpg",
+      "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Robot/Android%20Robot/Android%20Robot.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":2,
+      "name":"Cool Robot",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Robot/Cool%20Robot/Cool%20Robot.jpg",
+      "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Robot/Cool%20Robot/Cool%20Robot.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":3,
+      "name":"Droid Mod",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Robot/Droid%20Mod/Droid%20Mod.jpg",
+      "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Robot/Droid%20Mod/Droid%20Mod.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+   },
+   {
+    "id":4,
+    "name":"Mega Droid",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Robot/Mega%20Droid/Mega%20Droid.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Robot/Mega%20Droid/Mega%20Droid.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":5,
+    "name":"Megabot",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Robot/Megabot/Megabot.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Robot/Megabot/Megabot.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":6,
+    "name":"Mini Robot",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Robot/Mini%20Robot/Mini%20Robot.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Robot/Mini%20Robot/Mini%20Robot.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":7,
+    "name":"Mod By GG cat gamer n Stickman44",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Robot/Mod%20By%20GG%20cat%20gamer%20n%20Stickman44/Mod%20By%20GG%20cat%20gamer%20n%20Stickman44.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Robot/Mod%20By%20GG%20cat%20gamer%20n%20Stickman44/Mod%20By%20GG%20cat%20gamer%20n%20Stickman44.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+    ,
+  {
+    "id":8,
+    "name":"Mod Robot",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Robot/Mod%20Robot/Mod%20Robot.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Robot/Mod%20Robot/Mod%20Robot.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+     ,
+  {
+    "id":9,
+    "name":"Real Robot",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Robot/Real%20Robot/Real%20Robot.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Robot/Real%20Robot/Real%20Robot.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+     ,
+  {
+    "id":10,
+    "name":"Robot melsave",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Robot/Robot%20melsave/Robot%20melsave.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Robot/Robot%20melsave/Robot%20melsave.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+     ,
+  {
+    "id":11,
+    "name":"Robot Mod",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Robot/Robot%20Mod/Robot%20Mod.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Robot/Robot%20Mod/Robot%20Mod.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+  ,
+
+  {
+    "id":12,
+    "name":"NPC - Fighting Robot x788",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/NPC%20-%20Fighting%20Robot%20x788/NPC%20-%20Fighting%20Robot%20x788.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/NPC%20-%20Fighting%20Robot%20x788/NPC%20-%20Fighting%20Robot%20x788.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":13,
+    "name":"NPC - Military Z11",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/NPC%20-%20Military%20Z11/NPC%20-%20Military%20Z11.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/NPC%20-%20Military%20Z11/NPC%20-%20Military%20Z11.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":14,
+    "name":"NPC Robot",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/NPC%20Robot/NPC%20Robot.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/NPC%20Robot/NPC%20Robot.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":15,
+    "name":"NPC Robot 2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/NPC%20Robot%202/NPC%20Robot%202.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/NPC%20Robot%202/NPC%20Robot%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":16,
+    "name":"NPC Robot 3",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/NPC%20Robot%203/NPC%20Robot%203.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/NPC%20Robot%203/NPC%20Robot%203.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":17,
+    "name":"Police 7X - Policeman",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Police%207X%20-%20Policeman/Police%207X%20-%20Policeman.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Police%207X%20-%20Policeman/Police%207X%20-%20Policeman.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":18,
+    "name":"Portal 2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Portal%202/Portal%202.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Portal%202/Portal%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":19,
+    "name":"Robot 2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%202/Robot%202.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%202/Robot%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":20,
+    "name":"Robot - Bh991",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20-%20Bh991/Robot%20-%20Bh991.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20-%20Bh991/Robot%20-%20Bh991.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":21,
+    "name":"Robot Alpha",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Alpha/Robot%20Alpha.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Alpha/Robot%20Alpha.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":22,
+    "name":"Robot Atlas",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Atlas/Robot%20Atlas.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Atlas/Robot%20Atlas.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":23,
+    "name":"Robot By Kaktus",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20By%20Kaktus/Robot%20By%20Kaktus.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20By%20Kaktus/Robot%20By%20Kaktus.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":24,
+    "name":"Robot Druid",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Druid/Robot%20Druid.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Druid/Robot%20Druid.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":25,
+    "name":"Robot Kcelebox",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Kcelebox/Robot%20Kcelebox.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Kcelebox/Robot%20Kcelebox.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":26,
+    "name":"Robot Maud",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Maud/Robot%20Maud.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Maud/Robot%20Maud.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":27,
+    "name":"Robot Mod",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Mod/Robot%20Mod.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Mod/Robot%20Mod.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":28,
+    "name":"Robot Mod - JB6",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Mod%20-%20JB6/Robot%20Mod%20-%20JB6.jpg?",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Mod%20-%20JB6/Robot%20Mod%20-%20JB6.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":29,
+    "name":"Robot Mod 2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Mod%202/Robot%20Mod%202.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Mod%202/Robot%20Mod%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":30,
+    "name":"Robot Off",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Off/Robot%20Off.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Off/Robot%20Off.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":31,
+    "name":"Robot People Playground",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20People%20Playground/Robot%20People%20Playground.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20People%20Playground/Robot%20People%20Playground.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":32,
+    "name":"Robot Version 1",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Version%201/Robot%20Version%201.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Version%201/Robot%20Version%201.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":33,
+    "name":"The robot of the future",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/The%20robot%20of%20the%20future/The%20robot%20of%20the%20future.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/The%20robot%20of%20the%20future/The%20robot%20of%20the%20future.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":34,
+    "name":"U Robot",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/U%20Robot/U%20Robot.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/U%20Robot/U%20Robot.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":35,
+    "name":"Мех - Magnum 342",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/%D0%9C%D0%B5%D1%85%20-%20Magnum%20342/%D0%9C%D0%B5%D1%85%20-%20Magnum%20342.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/%D0%9C%D0%B5%D1%85%20-%20Magnum%20342/%D0%9C%D0%B5%D1%85%20-%20Magnum%20342.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+  ,
+
+  {
+      "id":35,
+      "name":"BT 7274 Robot Mod",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/BT%207274%20Robot%20Mod/BT%207274%20Robot%20Mod.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/BT%207274%20Robot%20Mod/BT%207274%20Robot%20Mod.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":37,
+      "name":"Classic Robot Toy",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Classic%20Robot%20Toy/Classic%20Robot%20Toy.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Classic%20Robot%20Toy/Classic%20Robot%20Toy.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":38,
+      "name":"Cooper Robot",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Cooper%20Robot/Cooper%20Robot.jpg",
+      "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Cooper%20Robot/Cooper%20Robot.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+   },
+   {
+    "id":39,
+    "name":"Cyborgs",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Cyborgs/Cyborgs.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Cyborgs/Cyborgs.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":40,
+    "name":"Dc-1",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Dc-1/Dc-1.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Dc-1/Dc-1.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":41,
+    "name":"Deep Rock Galactic",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Deep%20Rock%20Galactic/Deep%20Rock%20Galactic.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Deep%20Rock%20Galactic/Deep%20Rock%20Galactic.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":42,
+    "name":"Defender MK-1 Combat Robot",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Defender%20MK-1%20Combat%20Robot/Defender%20MK-1%20Combat%20Robot.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Defender%20MK-1%20Combat%20Robot/Defender%20MK-1%20Combat%20Robot.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":43,
+    "name":"Fighting Robot",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Fighting%20Robot/Fighting%20Robot.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Fighting%20Robot/Fighting%20Robot.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":44,
+    "name":"HIM YX880 - Cleaner",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/HIM%20YX880%20-%20Cleaner/HIM%20YX880%20-%20Cleaner.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/HIM%20YX880%20-%20Cleaner/HIM%20YX880%20-%20Cleaner.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":45,
+    "name":"Lokast Robot Mod",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Lokast%20Robot%20Mod/Lokast%20Robot%20Mod.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Lokast%20Robot%20Mod/Lokast%20Robot%20Mod.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":46,
+    "name":"Mod On Robot - Pumpki Bot",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Mod%20On%20Robot%20-%20Pumpki%20Bot/Mod%20On%20Robot%20-%20Pumpki%20Bot.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Robot/Mod%20On%20Robot%20-%20Pumpki%20Bot/Mod%20On%20Robot%20-%20Pumpki%20Bot.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+
+  ]
+}
