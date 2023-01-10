@@ -1,0 +1,258 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-1437241986629219/6404194733",
+      "main_ads_intertitial":"ca-app-pub-1437241986629219/3778031399",
+      "main_ads_natives":"ca-app-pub-1437241986629219/7043285149",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"ca-app-pub-1437241986629219/5730203477",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"17cc5b6c5",
+      "initialize_sdk_backup_ads":"17cc5b6c5",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+{
+      "id":1,
+      "name":"Apocalypse Tank",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Apocalypse%20Tank/Apocalypse%20Tank.jpg",
+      "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Apocalypse%20Tank/Apocalypse%20Tank.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":2,
+      "name":"BMPT Terminator - 3",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/BMPT%20Terminator%20-%203/BMPT%20Terminator%20-%203.jpg",
+      "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/BMPT%20Terminator%20-%203/BMPT%20Terminator%20-%203.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":3,
+      "name":"BTR-4",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/BTR-4/BTR-4.jpg",
+      "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/BTR-4/BTR-4.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+   },
+   {
+    "id":4,
+    "name":"BTR-90",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/BTR-90/BTR-90.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/BTR-90/BTR-90.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":5,
+    "name":"Car raid v5",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Car%20raid%20v5/Car%20raid%20v5.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Car%20raid%20v5/Car%20raid%20v5.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":6,
+    "name":"E-100",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/E-100/E-100.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/E-100/E-100.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":7,
+    "name":"Kurganets - 25",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Kurganets%20-%2025/Kurganets%20-%2025.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Kurganets%20-%2025/Kurganets%20-%2025.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+    ,
+  {
+    "id":8,
+    "name":"M1A2 ABRAMS",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/M1A2%20ABRAMS/M1A2%20ABRAMS.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/M1A2%20ABRAMS/M1A2%20ABRAMS.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+     ,
+  {
+    "id":9,
+    "name":"M18 Hellcat",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/M18%20Hellcat/M18%20Hellcat.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/M18%20Hellcat/M18%20Hellcat.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+     ,
+  {
+    "id":10,
+    "name":"Panzer 4",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Panzer%204/Panzer%204.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Panzer%204/Panzer%204.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+     ,
+  {
+    "id":11,
+    "name":"Panzerkampfwagen IV",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Panzerkampfwagen%20IV/Panzerkampfwagen%20IV.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Panzerkampfwagen%20IV/Panzerkampfwagen%20IV.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+     ,
+  {
+    "id":12,
+    "name":"Panzerkampfwagen VIII Maus",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Panzerkampfwagen%20VIII%20Maus/Panzerkampfwagen%20VIII%20Maus.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Panzerkampfwagen%20VIII%20Maus/Panzerkampfwagen%20VIII%20Maus.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+     ,
+  {
+    "id":13,
+    "name":"PT-76",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/PT-76/PT-76.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/PT-76/PT-76.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+     ,
+  {
+    "id":14,
+    "name":"T-14 Armata",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/T-14%20Armata/T-14%20Armata.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/T-14%20Armata/T-14%20Armata.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+     ,
+  {
+    "id":15,
+    "name":"T-34-85",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/T-34-85/T-34-85.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/T-34-85/T%2034%2085.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+     ,
+  {
+    "id":16,
+    "name":"T26 V3",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/T26%20V3/T26%20V3.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/T26%20V3/T26%20V3.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+     ,
+  {
+    "id":17,
+    "name":"T72B3",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/T72B3/T72B3.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/T72B3/T72B3.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+     ,
+  {
+    "id":18,
+    "name":"Tank Destroyer M18 Hellcat",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Tank%20Destroyer%20M18%20Hellcat/Tank%20Destroyer%20M18%20Hellcat.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Tank%20Destroyer%20M18%20Hellcat/Tank%20Destroyer%20M18%20Hellcat.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+     ,
+  {
+    "id":19,
+    "name":"TBMP T15 Armata",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/TBMP%20T15%20Armata/TBMP%20T15%20Armata.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/TBMP%20T15%20Armata/TBMP%20T15%20Armata.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+     ,
+  {
+    "id":20,
+    "name":"Tiger 1",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Tiger%201/Tiger%201.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Tiger%201/Tiger%201.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+     ,
+  {
+    "id":21,
+    "name":"TIGER 2 v7",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/TIGER%202%20v7/TIGER%202%20v7.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/TIGER%202%20v7/TIGER%202%20v7.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+     ,
+  {
+    "id":22,
+    "name":"Tiger 3",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Tiger%203/Tiger%203.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Tiger%203/Tiger%203.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+     ,
+  {
+    "id":23,
+    "name":"Tiger II",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Tiger%20II/Tiger%20II.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/Tiger%20II/Tiger%20II.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+     ,
+  {
+    "id":24,
+    "name":"Т-29",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/%D0%A2-29/%D0%A2-29.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/%D0%A2-29/%D0%A2-29.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+     ,
+  {
+    "id":25,
+    "name":"Т84 120 Scimitar",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/%D0%A284%20120%20Scimitar/%D0%A284%20120%20Scimitar.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/%D0%A284%20120%20Scimitar/%D0%A284%20120%20Scimitar.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+    
+  ]
+}
