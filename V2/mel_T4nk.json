@@ -253,6 +253,126 @@
     "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/%D0%A284%20120%20Scimitar/%D0%A284%20120%20Scimitar.zip",
       "description":"https://aweu.net/MOD%20MELON/ueue.html"
   }
-    
+    		,
+    {
+      "id":26,
+      "name":"A fictional DLF tank",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/A%20fictional%20DLF%20tank/A%20fictional%20DLF%20tank.jpg",
+      "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/A%20fictional%20DLF%20tank/A%20fictional%20DLF%20tank.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+		{
+			"id": 27,
+			"name": "Abrams and Challenger",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/Abrams%20and%20Challenger/Abrams%20and%20Challenger.jpg",
+			"download": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/Abrams%20and%20Challenger/Abrams%20and%20Challenger.zip",
+			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+		},
+		{
+			"id": 28,
+			"name": "Type 5 Heavy Tank",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/Type%205%20Heavy%20Tank/Type%205%20Heavy%20Tank.jpg",
+			"download": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/Type%205%20Heavy%20Tank/Type%205%20Heavy%20Tank.zip",
+			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+		},
+		{
+			"id": 29,
+			"name": "AMX AC mle. 48",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/AMX%20AC%20mle.%2048/AMX%20AC%20mle.%2048.jpg",
+			"download": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/AMX%20AC%20mle.%2048/AMX%20AC%20mle.%2048.zip",
+			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+		},
+		{
+			"id": 30,
+			"name": "Armored Truck - Flak 8.8",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/Armored%20Truck%20-%20Flak%208.8/Armored%20Truck%20-%20Flak%208.8.jpg",
+			"download": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/Armored%20Truck%20-%20Flak%208.8/Armored%20Truck%20-%20Flak%208.8.zip",
+			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+		},
+		{
+			"id": 31,
+			"name": "Art",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/Art/Art.jpg",
+			"download": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/Art/Art.zip",
+			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+		},
+		{
+			"id": 32,
+			"name": "Big pack Tanks",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/Big%20pack%20Tanks/Big%20pack%20Tanks.jpg",
+			"download": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/Big%20pack%20Tanks/Big%20pack%20Tanks.zip",
+			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+		},
+		{
+			"id": 33,
+			"name": "Black Eagle",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/Black%20Eagle/Black%20Eagle.jpg",
+			"download": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/Black%20Eagle/Black%20Eagle.zip",
+			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+		},
+		{
+			"id": 34,
+			"name": "CARL - 44",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/CARL%20-%2044/CARL%20-%2044.jpg",
+			"download": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/CARL%20-%2044/CARL%20-%2044.zip",
+			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+		},
+		{
+			"id": 35,
+			"name": "Compact-1 Fictional tank",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/Compact-1%20Fictional%20tank/Compact-1%20Fictional%20tank.jpg",
+			"download": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/Compact-1%20Fictional%20tank/Compact-1%20Fictional%20tank.zip",
+			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+		},
+		{
+			"id": 36,
+			"name": "Fast-moving fictional tank Chizh",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/Fast-moving%20fictional%20tank%20Chizh/Fast-moving%20fictional%20tank%20Chizh.jpg",
+			"download": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/Fast-moving%20fictional%20tank%20Chizh/Fast-moving%20fictional%20tank%20Chizh.zip",
+			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+		},
+		{
+			"id": 37,
+			"name": "Fictional sau Archer",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/Fictional%20sau%20Archer/Fictional%20sau%20Archer.jpg",
+			"download": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/Fictional%20sau%20Archer/Fictional%20sau%20Archer.zip",
+			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+		},
+		{
+			"id": 38,
+			"name": "Fictional tank MG90 A2",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/Fictional%20tank%20MG90%20A2/Fictional%20tank%20MG90%20A2.jpg",
+			"download": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/Fictional%20tank%20MG90%20A2/Fictional%20tank%20MG90%20A2.zip",
+			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+		},
+		{
+			"id": 39,
+			"name": "Four Transports - Ural",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/Four%20Transports%20-%20Ural/Four%20Transports%20-%20Ural.jpg",
+			"download": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/Four%20Transports%20-%20Ural/Four%20Transports%20-%20Ural.zip",
+			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+		},
+		{
+			"id": 40,
+			"name": "FT 17",
+			"category": "Mods",
+			"image": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/FT%2017/FT%2017.jpg",
+			"download": "https://aweu.net/MOD%20MELON/YEOROBUN/Tank/UPDATE/FT%2017/FT%2017.zip",
+			"description": "https://aweu.net/MOD%20MELON/ueue.html"
+		}
   ]
 }
