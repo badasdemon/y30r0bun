@@ -234,5 +234,288 @@
     "download":"https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE/SCP-173%20Unity/SCP-173%20Unity.zip",
       "description":"https://aweu.net/MOD%20MELON/ueue.html"
   }
+    
+    ,
+{
+	"id": 25,
+	"name": "3 Remake MTF Mod",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/3%20Remake%20MTF%20Mod/3%20Remake%20MTF%20Mod.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/3%20Remake%20MTF%20Mod/3%20Remake%20MTF%20Mod.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+}
+,
+{
+	"id": 26,
+	"name": "Mod for SCP 087-B",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/Mod%20for%20SCP%20087-B/Mod%20for%20SCP%20087-B.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/Mod%20for%20SCP%20087-B/Mod%20for%20SCP%20087-B.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 27,
+	"name": "MTF From the SCP universe",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/MTF%20From%20the%20SCP%20universe/MTF%20From%20the%20SCP%20universe.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/MTF%20From%20the%20SCP%20universe/MTF%20From%20the%20SCP%20universe.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 28,
+	"name": "O5 Council",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/O5%20Council/O5%20Council.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/O5%20Council/O5%20Council.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 29,
+	"name": "SCP Chaos Insurgency",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20Chaos%20Insurgency/SCP%20Chaos%20Insurgency.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20Chaos%20Insurgency/Chaos%20Insurgency.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 30,
+	"name": "SCP Class-D",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20Class-D/SCP%20Class-D.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20Class-D/SCP%20Class-D.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 31,
+	"name": "SCP Ethics Committee",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20Ethics%20Committee/SCP%20Ethics%20Committee.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20Ethics%20Committee/SCP%20Ethics%20Committee.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 32,
+	"name": "SCP Global Occult Coalition",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20Global%20Occult%20Coalition/SCP%20Global%20Occult%20Coalition.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20Global%20Occult%20Coalition/SCP%20Global%20Occult%20Coalition.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 33,
+	"name": "SCP MTF Alpha 9",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Alpha%209/SCP%20MTF%20Alpha%209.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Alpha%209/SCP%20MTF%20Alpha%209.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 34,
+	"name": "SCP MTF Alpha-1",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Alpha-1/SCP%20MTF%20Alpha-1.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Alpha-1/SCP%20MTF%20Alpha-1.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 35,
+	"name": "SCP MTF Alpha-1 Remake",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Alpha-1%20Remake/SCP%20MTF%20Alpha-1%20Remake.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Alpha-1%20Remake/SCP%20MTF%20Alpha-1%20Remake.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 36,
+	"name": "SCP MTF Beta-7",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Beta-7/SCP%20MTF%20Beta-7.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Beta-7/SCP%20MTF%20Beta-7.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 37,
+	"name": "SCP MTF Delta-5",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Delta-5/SCP%20MTF%20Delta-5.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Delta-5/SCP%20MTF%20Delta-5.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 38,
+	"name": "SCP MTF Epsilon 9",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Epsilon%209/SCP%20MTF%20Epsilon%209.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Epsilon%209/SCP%20MTF%20Epsilon%209.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 39,
+	"name": "SCP MTF Epsilon-11",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20NTF%20Epsilon-11/SCP%20NTF%20Epsilon-11.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20NTF%20Epsilon-11/SCP%20NTF%20Epsilon-11.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 40,
+	"name": "SCP MTF ETA-10 See No Evil",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20ETA-10%20See%20No%20Evil/SCP%20MTF%20ETA-10%20See%20No%20Evil.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20ETA-10%20See%20No%20Evil/SCP%20MTF%20ETA-10%20See%20No%20Evil.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 41,
+	"name": "SCP MTF Iota-10",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Iota-10/SCP%20MTF%20Iota-10.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Iota-10/SCP%20MTF%20Iota-10.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 42,
+	"name": "SCP MTF Lambda-12",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Lambda-12/SCP%20MTF%20Lambda-12.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Lambda-12/SCP%20MTF%20Lambda-12.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 43,
+	"name": "SCP MTF Mole Rat",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Mole%20Rat/SCP%20MTF%20Mole%20Rat.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Mole%20Rat/SCP%20MTF%20Mole%20Rat.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 44,
+	"name": "SCP MTF MU-13",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20MU-13/SCP%20MTF%20MU-13.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20MU-13/SCP%20MTF%20MU-13.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 45,
+	"name": "SCP MTF NU-7",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20NU-7/SCP%20MTF%20NU-7.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20NU-7/SCP%20MTF%20NU-7.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 46,
+	"name": "SCP MTF Omega-1",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Omega-1/SCP%20MTF%20Omega-1.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Omega-1/SCP%20MTF%20Omega-1.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 47,
+	"name": "SCP UIU FBI",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20UIU%20FBI/SCP%20UIU%20FBI.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20UIU%20FBI/SCP%20UIU%20FBI.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 48,
+	"name": "SCP MTF Omega-7",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Omega-7/SCP%20MTF%20Omega-7.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Omega-7/SCP%20MTF%20Omega-7.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 49,
+	"name": "SCP MTF PSI-8",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20PSI-8/SCP%20MTF%20PSI-8.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20PSI-8/SCP%20MTF%20PSI-8.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 50,
+	"name": "SCP MTF Resh-1",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Resh-1/SCP%20MTF%20Resh-1.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Resh-1/SCP%20MTF%20Resh-1.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 51,
+	"name": "SCP MTF TAU-1",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20TAU-1/SCP%20MTF%20TAU-1.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20TAU-1/SCP%20MTF%20TAU-1.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 52,
+	"name": "SCP MTF TAU-5 Samsara",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20TAU-5%20Samsara/SCP%20MTF%20TAU-5%20Samsara.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20TAU-5%20Samsara/SCP%20MTF%20TAU-5%20Samsara.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 53,
+	"name": "SCP MTF Zeta-9",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Zeta-9/SCP%20MTF%20Zeta-9.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20MTF%20Zeta-9/SCP%20MTF%20Zeta-9.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 54,
+	"name": "SCP NTF Epsilon-11",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20NTF%20Epsilon-11/SCP%20NTF%20Epsilon-11.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20NTF%20Epsilon-11/SCP%20NTF%20Epsilon-11.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 55,
+	"name": "SCP Rapid Response Team",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20Rapid%20Response%20Team/SCP%20Rapid%20Response%20Team.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20Rapid%20Response%20Team/SCP%20Rapid%20Response%20Team.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 56,
+	"name": "SCP RRT Mod",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20RRT%20Mod/SCP%20RRT%20Mod.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20RRT%20Mod/SCP%20RRT%20Mod.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 57,
+	"name": "SCP Scientist",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20Scientist/SCP%20Scientist.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20Scientist/SCP%20Scientist.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 58,
+	"name": "SCP Security Department",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20Security%20Department/SCP%20Security%20Department.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20Security%20Department/SCP%20Security%20Department.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+},
+{
+	"id": 59,
+	"name": "SCP The Administrator and CI Remake",
+	"category": "Mods",
+	"image": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20The%20Administrator%20and%20CI%20Remake/SCP%20The%20Administrator%20and%20CI%20Remake.jpg",
+	"download": "https://aweu.net/MOD%20MELON/YEOROBUN/SCP/UPDATE%202/SCP%20The%20Administrator%20and%20CI%20Remake/SCP%20The%20Administrator%20and%20CI%20Remake.zip",
+	"description": "https://aweu.net/MOD%20MELON/ueue.html"
+}
   ]
 }
