@@ -12,7 +12,7 @@
       "open_ads_admob":"ca-app-pub-1437241986629219/2912468441",
       "switch_banner_natives":"1",
       "on_off_native_listview":"1",
-      "interval_intertitial": 1,
+      "interval_intertitial": 5,
       "initialize_sdk":"17cc629d5",
       "initialize_sdk_backup_ads":"17cc629d5",
       "high_paying_keyword_1": "Slot",
